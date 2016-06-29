@@ -97,7 +97,7 @@ You might say, “that’s not enough words, songs, chords, pages etc. to make y
 
 * * *
 
-<figure data-orig-width="700" data-orig-height="239" class="tmblr-full">![image](https://66.media.tumblr.com/8b4553d26e73a5b5c82046056517bb4a/tumblr_inline_o28mhdx7I41qzode8_540.jpg)</figure>
+<src image = "https://66.media.tumblr.com/8b4553d26e73a5b5c82046056517bb4a/tumblr_inline_o28mhdx7I41qzode8_540.jpg" width="500">
 
 ## Log of completed daily habits, plus tracking of occasional compose session
 
