@@ -1,6 +1,6 @@
 # Songfarmer: Writing More and Better Songs
 
-<figure data-orig-width="200" data-orig-height="299">![image](https://66.media.tumblr.com/674ca8f2ed76a175af4eaa845e68eb10/tumblr_inline_o3ksd6n1YU1qzode8_540.jpg)</figure>
+<img src = "https://66.media.tumblr.com/674ca8f2ed76a175af4eaa845e68eb10/tumblr_inline_o3ksd6n1YU1qzode8_540.jpg" width="300">
 
 [Get the 85-page book](http://www.amazon.com/Songfarmer-Writing-More-Better-Songs/dp/0990420205) describing a songwriting process that will help you self-direct your own songwriting training program- to get better day after day, month after month, year after year.  
 
