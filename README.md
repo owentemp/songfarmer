@@ -26,5 +26,5 @@ Songs, like crops, can be grown over time with attention and daily cultivation. 
 * [Chapter 9: Stickiness](ch2.md)
 * [Chapter 10: Collaboration](ch3.md)
 * [Chapter 11: Prompts](ch11.md) 
-* [Conclusion:] (conclusion.md) 
+* [Conclusion] (conclusion.md) 
 * [About the Author](about.md)
