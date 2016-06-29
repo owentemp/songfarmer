@@ -1,6 +1,6 @@
 [![songfarmer](https://66.media.tumblr.com/df375c2f5a0f3cbca123185b3ba93dba/tumblr_inline_o3j2897dZk1qzode8_540.jpg "songfarmer")](http://amazon.com/dp/0990420205/)
 
-From [Songfarmer: Writing More and Better Songs](https://www.amazon.com/dp/0990420205/)  
+From [Songfarmer: Writing More and Better Songs](https://www.amazon.com/dp/0990420205/)
 Chapters [1](http://songfarmer.com/post/138033038871/songfarmer-chapter-one), [2](http://songfarmer.com/post/138092600736/chapter-two-set-a-goal), [3](http://songfarmer.com/post/138932056011/chapter-3-create-songwriting-habits), [4](http://songfarmer.com/post/140445572846/chapter-4-recognizing-song-seeds), [5](http://songfarmer.com/post/140449281976/chapter-5-composing), [6](http://songfarmer.com/post/140455489061/chapter-six-improving-flow), [7](http://songfarmer.com/post/140455690301/chapter-seven-improving-edit), [8](http://songfarmer.com/post/140455977371/chapter-eight-strengthening-habits), [9](http://songfarmer.com/post/140456145631/chapter-nine-stickiness), [10](http://songfarmer.com/post/140456197406/chapter-ten-collaboration), [Prompts](http://songfarmer.com/post/140456266021/prompts), [Conclusion](http://songfarmer.com/post/140456339966/conclusion)
 
 ## **Composing**
@@ -181,17 +181,17 @@ Here are some typical characteristics and features of both modes:
 
 Think about writing in the FLOW mode as an emptying of thoughts and just write down words and connections as they appear, without evaluation, hesitation, or critique. Just as water will find a way around barriers, so you should allow your thoughts to move to the page when you are in this mode. Try using the FLOW mode to free write for either a set period of time or for a set number of pages and:
 
-*   don’t worry about rhymes  
+*   don’t worry about rhymes
 
-*   keep the pen moving, don’t evaluate, just generate  
+*   keep the pen moving, don’t evaluate, just generate
 
-*   don’t use backspace if you are using a computer  
+*   don’t use backspace if you are using a computer
 
-*   create a “junkyard” or “wild zone” of material to pick through later  
+*   create a “junkyard” or “wild zone” of material to pick through later
 
-*   don’t focus on punctuation, capitalization, or correct spelling  
+*   don’t focus on punctuation, capitalization, or correct spelling
 
-*   put down whatever words or images cross your mind, even if they are expressions of doubt or uncertainty, just keep writing words down!  
+*   put down whatever words or images cross your mind, even if they are expressions of doubt or uncertainty, just keep writing words down!
 
 **Flow Exercise 1:**
 
@@ -223,7 +223,7 @@ Consider the FLOW mode like watering your fields to see what grows and to see wh
 
 Let’s also propose that most of us use two different zones of farmland (or at least two different fields): one is a wilder zone and the other is a more manicured and regulated zone. We FLOW (or water) to produce growth in the wilder zone, in the more natural field. Once we begin the EDIT mode (pruning, weeding, selecting), we are moving our upstart plants to a more manicured garden zone.  Of course, we can still water or FLOW once something has moved to the manicured zone, and we will have to FLOW to keep it growing, but in a more focused way.
 
-<figure data-orig-width="800" data-orig-height="910" class="tmblr-full">![image](https://66.media.tumblr.com/42e1bfa0f4c216dd59c75f8f4e8b174a/tumblr_inline_o3iqv7I4hx1qzode8_540.jpg)</figure>
+<img src="https://66.media.tumblr.com/42e1bfa0f4c216dd59c75f8f4e8b174a/tumblr_inline_o3iqv7I4hx1qzode8_540.jpg" width="800">
 
 What does this mean practically? It probably means that you have pages or a notebook or a recorder for your stream-of-consciousness FLOW output of words and sounds, and then when you switch to EDIT and decide you like something, you write it down on another page or in another notebook or put it into another recording. In other words, your ideas are slowly graduating from a jumble of sounds and scribbled ideas to initial melodies and structured lyrics as they pass through your editor’s judgment and your various filters.
 
@@ -241,15 +241,15 @@ Here is an example with a series of steps to take and questions to ask during a 
 
 4\. Using the EDIT mode, look through the wild growth pasture of words and phrases created during the FLOW session, looking for:
 
-*   First lines of a verse  
+*   First lines of a verse
 
-*   A song title  
+*   A song title
 
-*   First, middle, or last lines of a chorus  
+*   First, middle, or last lines of a chorus
 
-*   Last lines of a verse  
+*   Last lines of a verse
 
-*   Anything that strikes your ear or eye as pleasing  
+*   Anything that strikes your ear or eye as pleasing
 
 5\. Run a second focused FLOW mode session to fill a page with words related to any of the pieces you identified in Step 4
 
@@ -261,19 +261,19 @@ You are moving words through stages of testing, almost like transplanting untame
 
 7\. Using a new blank page, now use the FLOW mode again to respond to the items on your edited pages and seek to:
 
-*   Rhyme with interesting phrases  
+*   Rhyme with interesting phrases
 
-*   Set up (write what might precede) any interesting phrases  
+*   Set up (write what might precede) any interesting phrases
 
-*   Complete (write what might follow) any interesting phrases  
+*   Complete (write what might follow) any interesting phrases
 
 8\. FLOW and EDIT, FLOW and EDIT
 
-*   Move words and phrases from the WILD ZONE you create with the FLOW mode into the more MANICURED ZONE you create by using the EDIT mode, by selecting your favorite lines and phrases  
+*   Move words and phrases from the WILD ZONE you create with the FLOW mode into the more MANICURED ZONE you create by using the EDIT mode, by selecting your favorite lines and phrases
 
-*   Rhyme, reorder and restructure the phrases in the manicured zones  
+*   Rhyme, reorder and restructure the phrases in the manicured zones
 
-*   Create more wild growth using focused FLOW mode to possibly fill in the gaps you find in the manicured zones  
+*   Create more wild growth using focused FLOW mode to possibly fill in the gaps you find in the manicured zones
 
 9\. Repeat step 8 as necessary, with breaks of minutes or hours or days in between each repetition between FLOW and EDIT, until you feel the song is done.
 
@@ -303,17 +303,17 @@ A song is a marriage of lyric and music, and composing with the FLOW and EDIT mo
 
 Brian Wilson says that he writes melody by:
 
-*   Choosing a key  
+*   Choosing a key
 
-*   Playing chords in that key until he finds a progression of chords and a rhythm for them he likes  
+*   Playing chords in that key until he finds a progression of chords and a rhythm for them he likes
 
-*   Then he starts either singing nonsense words or lyrics as he moves through the progression until he likes a melodic line  
+*   Then he starts either singing nonsense words or lyrics as he moves through the progression until he likes a melodic line
 
 Some songwriters find that composing melodies by singing, without playing an instrument, can lead to more inventive melodies. Some other songwriters use their instrument to create a progression of chords and rhythms that suggest a feeling or mood, and then they begin composing words that match that feeling or mood (or that contrast with that feeling or mood). Create options, make choices, create options, make choices, is another way of saying FLOW, EDIT, FLOW, EDIT.
 
 The good news is that when you create options, you will be attracted to some directions more than others, and you will choose them. Then those choices will be connected to other options, some of which you will favor more than others, and then those choices will suggest further options, and the process goes on and on, until the song is finished. The underlying criteria for the choices you make are _your subjective tastes informed by all your life experiences and by your habitual study of music and language_**.** You will choose what interests you, what delights you, and what you find beautiful or compelling.
 
-<figure data-orig-width="800" data-orig-height="720" class="tmblr-full">![image](https://67.media.tumblr.com/928a24ae4cc63bd873a1b34aca8f2bdd/tumblr_inline_o3itw0RE4Q1qzode8_540.jpg)</figure>
+<img src="https://67.media.tumblr.com/928a24ae4cc63bd873a1b34aca8f2bdd/tumblr_inline_o3itw0RE4Q1qzode8_540.jpg" width="800">
 
 ## Habits lead to seeds that can be grown and pruned with composing sessions into finished songs
 

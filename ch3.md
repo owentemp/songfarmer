@@ -1,6 +1,6 @@
 [![songfarmer](https://66.media.tumblr.com/df375c2f5a0f3cbca123185b3ba93dba/tumblr_inline_o3j2897dZk1qzode8_540.jpg "songfarmer")](http://amazon.com/dp/0990420205/)
 
-From [Songfarmer: Writing More and Better Songs](https://www.amazon.com/dp/0990420205/)  
+From [Songfarmer: Writing More and Better Songs](https://www.amazon.com/dp/0990420205/)
 Chapters [1](http://songfarmer.com/post/138033038871/songfarmer-chapter-one), [2](http://songfarmer.com/post/138092600736/chapter-two-set-a-goal), [3](http://songfarmer.com/post/138932056011/chapter-3-create-songwriting-habits), [4](http://songfarmer.com/post/140445572846/chapter-4-recognizing-song-seeds), [5](http://songfarmer.com/post/140449281976/chapter-5-composing), [6](http://songfarmer.com/post/140455489061/chapter-six-improving-flow), [7](http://songfarmer.com/post/140455690301/chapter-seven-improving-edit), [8](http://songfarmer.com/post/140455977371/chapter-eight-strengthening-habits), [9](http://songfarmer.com/post/140456145631/chapter-nine-stickiness), [10](http://songfarmer.com/post/140456197406/chapter-ten-collaboration), [Prompts](http://songfarmer.com/post/140456266021/prompts), [Conclusion](http://songfarmer.com/post/140456339966/conclusion)
 
 ## **Create Songwriting Habits**
@@ -47,15 +47,15 @@ Let’s look at each habit in the next section.
 
 Let’s consider the writing habit itself as being made up of several different activities, including:
 
-*   Noting ideas as they come to you in places where they can be reviewed later (whether the notes are taken on a smartphone app, in a notebook, or on a cocktail napkin)  
+*   Noting ideas as they come to you in places where they can be reviewed later (whether the notes are taken on a smartphone app, in a notebook, or on a cocktail napkin)
 
-*   Journaling and freewriting  
+*   Journaling and freewriting
 
-*   Singing voice memos of words or melodies  
+*   Singing voice memos of words or melodies
 
-*   Reviewing previously noted ideas  
+*   Reviewing previously noted ideas
 
-*   Composing, or drafting lyrics and developing melodies  
+*   Composing, or drafting lyrics and developing melodies
 
 If you were to adopt only one activity on the list, and ignore almost every other habit, please consider adopting the first one: writing down your ideas at the moment they come to you. I will have more to say about this activity later when we discuss “seeds for songs,” but its importance for a songwriter cannot be overemphasized.
 
@@ -97,13 +97,13 @@ You might say, “that’s not enough words, songs, chords, pages etc. to make y
 
 * * *
 
-<figure data-orig-width="700" data-orig-height="239" class="tmblr-full">![image](https://66.media.tumblr.com/8b4553d26e73a5b5c82046056517bb4a/tumblr_inline_o28mhdx7I41qzode8_540.jpg)</figure>
+<img src="https://66.media.tumblr.com/8b4553d26e73a5b5c82046056517bb4a/tumblr_inline_o28mhdx7I41qzode8_540.jpg" width="700">
 
 ## Log of completed daily habits, plus tracking of occasional compose session
 
 * * *
 
-I must also point out that on many days I do more than just my mini habit requirement. Some days, I write 500 words that might later become lyrics, I listen to 13 new songs, I play 50 chords, and I read 100 pages of fiction.  
+I must also point out that on many days I do more than just my mini habit requirement. Some days, I write 500 words that might later become lyrics, I listen to 13 new songs, I play 50 chords, and I read 100 pages of fiction.
 
 Most importantly, I hope you recognize that by completing small daily actions, you can acquire a set of daily habits that require you to confront your avoidance and anxieties and fears of failure - every 24 hours - in a way that you will always end up feeling victorious and energized. Mini habits can create an upward spiral, where confidence begets confidence, and ideas beget ideas. The practice of mini habits works very well for me, as these small actions are important enough to do every day, and I believe these actions and these habits help me to continually develop as a songwriter.
 

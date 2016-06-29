@@ -1,6 +1,6 @@
 [![songfarmer](https://66.media.tumblr.com/df375c2f5a0f3cbca123185b3ba93dba/tumblr_inline_o3j2897dZk1qzode8_540.jpg "songfarmer")](http://amazon.com/dp/0990420205/)
 
-From [Songfarmer: Writing More and Better Songs](https://www.amazon.com/dp/0990420205/)  
+From [Songfarmer: Writing More and Better Songs](https://www.amazon.com/dp/0990420205/)
 Chapters [1](http://songfarmer.com/post/138033038871/songfarmer-chapter-one), [2](http://songfarmer.com/post/138092600736/chapter-two-set-a-goal), [3](http://songfarmer.com/post/138932056011/chapter-3-create-songwriting-habits), [4](http://songfarmer.com/post/140445572846/chapter-4-recognizing-song-seeds), [5](http://songfarmer.com/post/140449281976/chapter-5-composing), [6](http://songfarmer.com/post/140455489061/chapter-six-improving-flow), [7](http://songfarmer.com/post/140455690301/chapter-seven-improving-edit), [8](http://songfarmer.com/post/140455977371/chapter-eight-strengthening-habits), [9](http://songfarmer.com/post/140456145631/chapter-nine-stickiness), [10](http://songfarmer.com/post/140456197406/chapter-ten-collaboration), [Prompts](http://songfarmer.com/post/140456266021/prompts), [Conclusion](http://songfarmer.com/post/140456339966/conclusion)
 
 ## **Strengthening Habits**
@@ -31,7 +31,7 @@ FLOW & EDIT grows SEEDS into more SONGS
 
 GOAL + HABITS = improved SOIL and better SONGS
 
-<figure data-orig-width="700" data-orig-height="618" class="tmblr-full">![image](https://67.media.tumblr.com/96431dcd729bef5e8466e39ddd95ef9f/tumblr_inline_o3ko5epbDQ1qzode8_540.jpg)</figure>
+<img src="https://67.media.tumblr.com/96431dcd729bef5e8466e39ddd95ef9f/tumblr_inline_o3ko5epbDQ1qzode8_540.jpg" width="700">
 
 ## Another visual model to show how songwriting habits will result in seeds you can use to compose songs. Note also that the inputs of each habit, whether they result in a seed or not, will enrich the surrounding knowledge and experience, the soil, of the songwriter.
 
@@ -47,25 +47,25 @@ Let’s look closely at the sequence of cues, routines, and rewards to decide ho
 
 Examples of songwriting cues can be:
 
-*   a guitar sitting out on a stand (not hidden in a closet)  
+*   a guitar sitting out on a stand (not hidden in a closet)
 
-*   a piano  
+*   a piano
 
-*   a blank notebook  
+*   a blank notebook
 
-*   listening to a song or an artist you admire  
+*   listening to a song or an artist you admire
 
-*   a book on songwriting  
+*   a book on songwriting
 
-*   a written goal to write a song posted in a place where you see it regularly  
+*   a written goal to write a song posted in a place where you see it regularly
 
-*   a friend who asks to hear a new song  
+*   a friend who asks to hear a new song
 
-*   language you admire in a book or a poem  
+*   language you admire in a book or a poem
 
-*   a strong feeling about something going on your life  
+*   a strong feeling about something going on your life
 
-*   a memorable phrase or piece of conversation  
+*   a memorable phrase or piece of conversation
 
 To strengthen the habits of songwriting, keep songwriting cues present and visible in your environment. If you don’t have cues to write songs in your environment, try to find a way to get those cues into your daily life. A written goal in a place you will see it is a powerful cue. A notebook and a pen (nearby at all times) are very helpful cues for a writer.
 
@@ -81,21 +81,21 @@ Is there a particular style of pen or notebook that feels right and is aesthetic
 
 Regarding tools, here are a few choices I have heard friends talk about that you might consider for your own songwriting toolbox:
 
-*   Notebooks with unlined pages (sometimes better for freeform FLOW mode)  
+*   Notebooks with unlined pages (sometimes better for freeform FLOW mode)
 
-*   Notebooks with lined paper (better for EDIT mode)  
+*   Notebooks with lined paper (better for EDIT mode)
 
-*   Graph paper (yep, also sometimes better for EDIT mode)  
+*   Graph paper (yep, also sometimes better for EDIT mode)
 
-*   Particular pens or pencils  
+*   Particular pens or pencils
 
-*   Computer program where final versions of song lyrics can be composed or stored (MasterWriter, Scrivener, or just text documents in a folder)  
+*   Computer program where final versions of song lyrics can be composed or stored (MasterWriter, Scrivener, or just text documents in a folder)
 
-*   Voice recorder or voice memo app on smartphone  
+*   Voice recorder or voice memo app on smartphone
 
-*   A folder on your computer to keep rough acoustic demos of songs  
+*   A folder on your computer to keep rough acoustic demos of songs
 
-*   Rhyming dictionary book or online (I like RhymeZone.com best)  
+*   Rhyming dictionary book or online (I like RhymeZone.com best)
 
 **Rewards**
 
@@ -105,7 +105,7 @@ There is a plethora of apps and websites for tracking completion of routines (my
 
 I use year-at-a-glance wall calendars and put a check mark on days when I completed all my mini habits. I also make a monthly record using graph paper. On the graph paper I write the month name at the top and then list 1 through 30 or 31 for the days in the month on one row. Then, on the left side of the page, I write each habit on a different row, so that I can put a check on the row for that habit for each particular day of the month.
 
-<figure data-orig-width="700" data-orig-height="239" class="tmblr-full">![image](https://66.media.tumblr.com/8b4553d26e73a5b5c82046056517bb4a/tumblr_inline_o3kokuWCSs1qzode8_540.jpg)</figure>
+<img src="https://66.media.tumblr.com/8b4553d26e73a5b5c82046056517bb4a/tumblr_inline_o3kokuWCSs1qzode8_540.jpg" width="700">
 
 The point is, don’t assume digital records and digital to-do lists are more rewarding or motivating than paper-and-ink lists. Thousands of years of evolution have made the act of making a physical mark on a surface more rewarding than any digital check marks. Go with whatever works for you and gives you a sense of satisfaction after completing the routines to strengthen your habits.
 
