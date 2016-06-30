@@ -1,7 +1,7 @@
 [![songfarmer](https://66.media.tumblr.com/df375c2f5a0f3cbca123185b3ba93dba/tumblr_inline_o3j2897dZk1qzode8_540.jpg)](http://amazon.com/dp/0990420205/)
 
-From [Songfarmer: Writing More and Better Songs](https://www.amazon.com/dp/0990420205/)  
-Chapters [1](http://songfarmer.com/post/138033038871/songfarmer-chapter-one), [2](http://songfarmer.com/post/138092600736/chapter-two-set-a-goal), [3](http://songfarmer.com/post/138932056011/chapter-3-create-songwriting-habits), [4](http://songfarmer.com/post/140445572846/chapter-4-recognizing-song-seeds), [5](http://songfarmer.com/post/140449281976/chapter-5-composing), [6](http://songfarmer.com/post/140455489061/chapter-six-improving-flow), [7](http://songfarmer.com/post/140455690301/chapter-seven-improving-edit), [8](http://songfarmer.com/post/140455977371/chapter-eight-strengthening-habits), [9](http://songfarmer.com/post/140456145631/chapter-nine-stickiness), [10](http://songfarmer.com/post/140456197406/chapter-ten-collaboration), [Prompts](http://songfarmer.com/post/140456266021/prompts), [Conclusion](http://songfarmer.com/post/140456339966/conclusion)
+From [Songfarmer: Writing More and Better Songs](https://www.amazon.com/dp/0990420205/)
+Chapters [1](ch1.md), [2](ch2.md), [3](ch3.md), [4](ch4.md), [5](ch5.md), [6](ch6.md), [7](ch7.md), [8](ch8.md), [9](ch9.md), [10](ch10.md), [Prompts](ch11.md), [Conclusion](conclusion.md)
 
 ## **Improving Edit**
 
@@ -71,9 +71,9 @@ Rhymes provide patterns, and patterns help the brain organize information. When 
 
 An internal rhyme is:
 
-*   two sounds that rhyme within a single line (before the last word of the line), or  
+*   two sounds that rhyme within a single line (before the last word of the line), or
 
-*   a rhyme that happens between two sounds in two different lines but not located at the ends of those lines  
+*   a rhyme that happens between two sounds in two different lines but not located at the ends of those lines
 
 If used correctly, internal rhymes add rhythms and a kind of pleasing snap to lyrics.
 
@@ -109,11 +109,11 @@ Interesting chords can sometimes produce unique melodies or create a feeling you
 
 Listeners expect development in a song. What do we mean by “development?” In many ways, a song is a story, and listeners expect that songs and stories have a beginning, middle, and end, and that by the end, something has changed. Components that can change:
 
-*   The character can change his belief, attitude, or behavior  
+*   The character can change his belief, attitude, or behavior
 
-*   The perspective can shift from a close up focus to a wide focus, or vice versa  
+*   The perspective can shift from a close up focus to a wide focus, or vice versa
 
-*   The questions posed in the song are answered  
+*   The questions posed in the song are answered
 
 In general, strive for _something to be different_ from the beginning to the end of the song.
 
@@ -165,13 +165,13 @@ Many songwriters will tell you they have a principle that helps keep them moving
 
 Most songwriters further revise beyond the first draft through multiple drafts of songs, but the point is to get to the first draft in order to assure yourself and your songwriting consciousness that:
 
-*   You will not judge the song’s worth in the middle of growing it  
+*   You will not judge the song’s worth in the middle of growing it
 
-*   You will learn something from every song you complete  
+*   You will learn something from every song you complete
 
-*   You will be employing the Rule of Nine (see Chapter 3)  
+*   You will be employing the Rule of Nine (see Chapter 3)
 
-*   Writing up everything to a completed stage will close open loops in your mind  
+*   Writing up everything to a completed stage will close open loops in your mind
 
 One more way to think about finishing things: try thinking of every song as a table that you are making. Some tables are big, ornate formal dining room tables and some are crooked little kids’ tables, but for it to be a table, it needs four legs and a flat surface. So go ahead and get all the seeds you begin composing to a playable song form.
 
@@ -183,4 +183,4 @@ Like reports of unicorns, there are tales of songwriters who, in a fury of FLOW,
 
 By far, the more common writing style is getting down the basic structure and a few key ideas about the song in an early draft, and then using EDIT mode to improve it.
 
-[Next - Chapter 8: Strengthening Habits](http://songfarmer.com/post/140455977371/chapter-eight-strengthening-habits)
+[Next - Chapter 8: Strengthening Habits](ch8.md)

@@ -1,23 +1,23 @@
 [![songfarmer](https://66.media.tumblr.com/df375c2f5a0f3cbca123185b3ba93dba/tumblr_inline_o3j2897dZk1qzode8_540.jpg "songfarmer")](http://amazon.com/dp/0990420205/)
 
-From [Songfarmer: Writing More and Better Songs](https://www.amazon.com/dp/0990420205/)  
-Chapters [1](http://songfarmer.com/post/138033038871/songfarmer-chapter-one), [2](http://songfarmer.com/post/138092600736/chapter-two-set-a-goal), [3](http://songfarmer.com/post/138932056011/chapter-3-create-songwriting-habits), [4](http://songfarmer.com/post/140445572846/chapter-4-recognizing-song-seeds), [5](http://songfarmer.com/post/140449281976/chapter-5-composing), [6](http://songfarmer.com/post/140455489061/chapter-six-improving-flow), [7](http://songfarmer.com/post/140455690301/chapter-seven-improving-edit), [8](http://songfarmer.com/post/140455977371/chapter-eight-strengthening-habits), [9](http://songfarmer.com/post/140456145631/chapter-nine-stickiness), [10](http://songfarmer.com/post/140456197406/chapter-ten-collaboration), [Prompts](http://songfarmer.com/post/140456266021/prompts), [Conclusion](http://songfarmer.com/post/140456339966/conclusion)
+From [Songfarmer: Writing More and Better Songs](https://www.amazon.com/dp/0990420205/)
+Chapters [1](ch1.md), [2](ch2.md), [3](ch3.md), [4](ch4.md), [5](ch5.md), [6](ch6.md), [7](ch7.md), [8](ch8.md), [9](ch9.md), [10](ch10.md), [Prompts](ch11.md), [Conclusion](conclusion.md)
 
 ## **Stickiness**
 
 Write down answers: What do you want a song to make people feel or understand? What do you want them to do? Do you want them to stand up and sing along, do you want them to cry, or do you want them to play it at their wedding? By writing a few goals for the song you write before beginning a FLOW process, you can sometimes wind up with a song that meets your goals. “Better songs” can mean songs that accomplish the goals you set for the songs. Some songwriters want their next song to be the one that:
 
-*   People play at full blast at the summer keg party and sing along to  
+*   People play at full blast at the summer keg party and sing along to
 
-*   People dance to at a country bar  
+*   People dance to at a country bar
 
-*   Inspires their songwriter heroes to send them a message to say “well done”  
+*   Inspires their songwriter heroes to send them a message to say “well done”
 
-*   Gets played on the local radio station  
+*   Gets played on the local radio station
 
-*   Is popular among college students  
+*   Is popular among college students
 
-*   Will get you booked at a folk festival  
+*   Will get you booked at a folk festival
 
 The bottom line is that “better songs” can only make sense in regard to your goals for your songwriting, and your songs get better to the extent that they accomplish the goals you set for them.
 
@@ -117,4 +117,4 @@ You get it. Once you make a comparison by using a metaphor, use it consistently,
 
 The bottom line: a hook is anything that gets and keeps attention. Sometimes I ask myself: what would be the first line of an interesting song? What line would get me leaning forward, turning up the volume to hear what comes next? Whatever line fits that description is a hook. If something interests you or if some idea or sound or rhythm appears in your thoughts, that’s a clue that you should explore it. Creativity and fresh ideas come from people exploring what they love and what amuses/interests/delights them. Do consider the listener’s perspective, but, at first, you will have to use your own experience and aesthetic tastes. The good news is that we are not so unique and there are other people in the world amused/interested/delighted by the same things we are. So go ahead and make something for yourself and for them.
 
-[Next - Chapter 10: Collaboration](http://songfarmer.com/post/140456197406/chapter-ten-collaboration)
+[Next - Chapter 10: Collaboration](ch10.md)

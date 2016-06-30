@@ -1,7 +1,7 @@
 [![songfarmer](https://66.media.tumblr.com/df375c2f5a0f3cbca123185b3ba93dba/tumblr_inline_o3j2897dZk1qzode8_540.jpg "songfarmer")](http://amazon.com/dp/0990420205/)
 
-From [Songfarmer: Writing More and Better Songs](https://www.amazon.com/dp/0990420205/)  
-Chapters [1](http://songfarmer.com/post/138033038871/songfarmer-chapter-one), [2](http://songfarmer.com/post/138092600736/chapter-two-set-a-goal), [3](http://songfarmer.com/post/138932056011/chapter-3-create-songwriting-habits), [4](http://songfarmer.com/post/140445572846/chapter-4-recognizing-song-seeds), [5](http://songfarmer.com/post/140449281976/chapter-5-composing), [6](http://songfarmer.com/post/140455489061/chapter-six-improving-flow), [7](http://songfarmer.com/post/140455690301/chapter-seven-improving-edit), [8](http://songfarmer.com/post/140455977371/chapter-eight-strengthening-habits), [9](http://songfarmer.com/post/140456145631/chapter-nine-stickiness), [10](http://songfarmer.com/post/140456197406/chapter-ten-collaboration), [Prompts](http://songfarmer.com/post/140456266021/prompts), [Conclusion](http://songfarmer.com/post/140456339966/conclusion)
+From [Songfarmer: Writing More and Better Songs](https://www.amazon.com/dp/0990420205/)
+Chapters [1](ch1.md), [2](ch2.md), [3](ch3.md), [4](ch4.md), [5](ch5.md), [6](ch6.md), [7](ch7.md), [8](ch8.md), [9](ch9.md), [10](ch10.md), [Prompts](ch11.md), [Conclusion](conclusion.md)
 
 ## **Overview**
 
@@ -17,23 +17,23 @@ Songfarmer is a systematic view of the processes involved in songwriting. Songfa
 
 The intention of Songfarmer is to write more and better songs through:
 
-*   the daily use of a few songwriting habits to collect “seeds” for songs, and  
+*   the daily use of a few songwriting habits to collect “seeds” for songs, and
 
-*   an alternating, intentional move between two different modes of writing that I’ll call FLOW and EDIT.  
+*   an alternating, intentional move between two different modes of writing that I’ll call FLOW and EDIT.
 
 As a Songfarmer, you collect seeds (ideas for songs) and you improve the soil (the skills, knowledge, and memories in your brain) through your habits of writing, listening, performing, and reading. Then, later, you grow songs from those seeds in composing sessions in which you “water” the seeds with a stream-of-consciousness writing mode called FLOW. Then, after a good flow session, you weed your and prune the plants with an evaluative, critical, and structural mode of writing called EDIT.
 
 Our goals:
 
-*   to gather SEEDS for songs with our habits  
+*   to gather SEEDS for songs with our habits
 
-*   to improve the SOIL with our habits  
+*   to improve the SOIL with our habits
 
-*   to grow songs and compose in sessions using the two modes of writing  
+*   to grow songs and compose in sessions using the two modes of writing
 
-*   to use the FLOW mode to water and grow our seeds  
+*   to use the FLOW mode to water and grow our seeds
 
-*   to use the EDIT mode to weed, shape, and prune them  
+*   to use the EDIT mode to weed, shape, and prune them
 
 The FLOW mode of writing is a stream-of-consciousness style of writing with no judgments, punctuation, spelling, or critique. The object of FLOW mode is to get many connected, associated ideas and possibilities out of your head and down on paper or into an audio recorder. The nature of the EDIT mode is an evaluative, critical look at the current work that can lead to restructuring and changes in words and phrasing, all done with the intent to refine and polish.
 
@@ -49,21 +49,21 @@ This program will help you to strengthen the habits that lead to more and better
 
 Some of the habits that are helpful for songwriters include:
 
-*   Sitting down with a notebook to journal or list phrases  
+*   Sitting down with a notebook to journal or list phrases
 
-*   Listening to music  
+*   Listening to music
 
-*   Playing your instrument  
+*   Playing your instrument
 
-*   Learning about your instrument  
+*   Learning about your instrument
 
-*   Singing  
+*   Singing
 
-*   Reading great prose or poetry  
+*   Reading great prose or poetry
 
-*   Listening closely to the way people talk  
+*   Listening closely to the way people talk
 
-*   Noting song ideas as soon as you get them on paper or voice memos  
+*   Noting song ideas as soon as you get them on paper or voice memos
 
 If you strengthen these habits, you will write **more** songs. The more songs you write, the **better** they’ll become.
 
@@ -79,4 +79,4 @@ Knowing a process for writing songs doesn’t guarantee great songs, but having 
 
 With Songfarmer, my hope is to give you a process, a structured way of “showing up”, to take the actions that will move you forward in your writing. The objectives are straightforward: to make more and better songs. My hope and goal is that you will get a firm idea from this book of how to continue in your songwriting journey and that you’ll have some reliable methods to get more and better songs in the future.
 
-[Next - Chapter 2: Set a Goal](http://songfarmer.com/post/138092600736/chapter-two-set-a-goal)
+[Next - Chapter 2: Set a Goal](ch2.md)
