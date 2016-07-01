@@ -28,7 +28,7 @@ Songs, like crops, can be grown over time with attention and daily cultivation. 
 * [Chapter 11: Prompts](ch11.md) 
 * [Conclusion] (conclusion.md) 
 * [About the Author](about.md)
-* [Appendix A: Systematic Creativity - Presentation at MakerSquare] (https://docs.google.com/presentation/d/1puf1GObeUlz10xThxHY2BUDFbDhydGCxx6c8Q2PbPpI/)
+* [Appendix A: Systematic Creativity - Presentation at MakerSquare] (https://docs.google.com/presentation/d/1puf1GObeUlz10xThxHY2BUDFbDhydGCxx6c8Q2PbPpI/pub?start=false&loop=false&delayms=3000)
 
 ## License & Copyright
 
